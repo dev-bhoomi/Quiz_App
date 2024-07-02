@@ -1,7 +1,7 @@
 
 # KBC Quiz Application
 
-: Developed a KBC (Kaun Banega Crorepati) style quiz application using React, JavaScript, CSS, and HTML. This interactive web app simulates the popular game show format, allowing users to answer multiple-choice questions and progress through levels to win virtual rewards.
+Developed a KBC (Kaun Banega Crorepati) style quiz application using React, JavaScript, CSS, and HTML. This interactive web app simulates the popular game show format, allowing users to answer multiple-choice questions and progress through levels to win virtual rewards.
 ## Features
 
 - #### Progressive Difficulty: 
