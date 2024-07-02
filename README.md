@@ -1,22 +1,85 @@
 
-#  Quiz Game using react.js
+# KBC Quiz Application
 
-This Compound Interest Calculator is a web application created using React.js. It allows users to quickly calculate the compound interest based on their principal amount, interest rate, compounding frequency, and duration.
+: Developed a KBC (Kaun Banega Crorepati) style quiz application using React, JavaScript, CSS, and HTML. This interactive web app simulates the popular game show format, allowing users to answer multiple-choice questions and progress through levels to win virtual rewards.
+## Features
+
+- #### Progressive Difficulty: 
+The quiz has questions that get harder as you go along, just like in the real KBC game show.
+
+- #### Easy to Use:
+The app is designed with a simple and clear interface, making it easy for anyone to use and enjoy.
+
+
+- #### Earn Rewards: 
+Users can win virtual rewards as they answer questions correctly and move up through the levels.
+
+
+## Languages/Library
+### Languages
+- REACT
+- JavaScript
+- HTML
+- CSS
+
+### React Libraries
+- "@testing-library/jest-dom": "^5.17.0",
+- "@testing-library/react": "^13.4.0",
+- "@testing-library/user-event": "^13.5.0",
+-  "gh-pages": "^6.0.0",
+- "react": "^18.2.0",
+- "react-dom": "^18.2.0",
+- "react-scripts": "5.0.1",
+- "web-vitals": "^2.1.4"
+- "use-sound": "^4.0.1",
+
 ## Demo
 
 Insert gif or link to demo
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJ5czVhODN0czMwZnY0emxpd3k4d3cyaXdkenY1bTRzYWh3cmNhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kVyiQgm1D93RZbsWMk/source.gif)
-
 ## Deployment
 
 [Link to Deployed Application](https://dev-bhoomi.github.io/Quiz_App/)
 
 
 
+
+
+## How to Setup
+Hey there! Just a friendly reminder to follow these steps when working on a React project:
+
+1. First, clone the project.
+2. Then, download the node_modules file.
+3. Navigate to the project Directory
+4. Install Dependencies
+5. Lastly, run npm start.
+
+Hope that helps!
+## How to deploy
+[![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
+
+# Hi, I'm dev-bhoomi! 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, bootstrap and react.js
+
+
+## 🔗 Links
+https://github.com/dev-bhoomi
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
+
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt Text]
 
 
 ## Appendix
@@ -56,15 +119,6 @@ Any additional information goes here
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
-
-
-## Features
-
-- Responsive Design: The expanding image cards work smoothly on different devices, adapting to various screen sizes.
-
-- Interactive Experience: Click on a card, and the image elegantly expands for a closer view. Click on another, and the previous one collapses.
-
-- Easy Customization: You can easily change the images inside each card. Customize the content to showcase your favorite pictures.
 
 
 ## Authors
@@ -123,16 +177,6 @@ Please adhere to this project's `code of conduct`.
 ## Feedback
 
 If you have any feedback, please reach out to us at fake@fake.com
-
-
-# Hi, I'm dev-bhoomi! 👋
-
-
-## 🔗 Links
-https://github.com/dev-bhoomi
-
-## 🛠 Skills
-Javascript, HTML, CSS, bootstrap and react.js
 
 
 ## Installation
